@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaptopPowerMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae44179350c368d1665adc2af07ef3ca3c411221")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaptopPowerMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaptopPowerMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

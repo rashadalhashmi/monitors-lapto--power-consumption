@@ -1,0 +1,29 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Local SDK and package caches
+.dotnet/
+.nuget/*
+!.nuget/NuGet.Config
+
+# IDE and user-specific files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test and coverage artifacts
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
